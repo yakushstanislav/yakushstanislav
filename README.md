@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=yakushstanislav)
+![](https://komarev.com/ghpvc/?username=yakushstanislav&style=for-the-badge)
