@@ -6,7 +6,7 @@ I have written:
 * 🐧 [watchdog-ctl](https://github.com/yakushstanislav/watchdog-ctl) _[C]_ — a simple tool for control watchdog timer
 * 💻 [bash-utils](https://github.com/yakushstanislav/bash-utils) _[C]_ — a set of bash utilities
 
-I also developed and maintain 📅  [WantVisit.com](https://wantvisit.com)
+I also develop and maintain 📅  [WantVisit.com](https://wantvisit.com)
 
 ### 📈 Statistics
 
