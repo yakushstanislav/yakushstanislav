@@ -3,6 +3,8 @@
 I have written:
 * ⛓️ [ChainDB](https://github.com/yakushstanislav/ChainDB) _[C++]_— a secure and reliable blockchain database
 * 💾 [EagleMQ](https://github.com/yakushstanislav/EagleMQ) _[C]_ _[DEPRECATED]_ — an open source, high-performance and lightweight queue manager
+* 🐧 [watchdog-ctl](https://github.com/yakushstanislav/watchdog-ctl) _[C]_ — a simple tool for control watchdog timer
+* 💻 [bash-utils](https://github.com/yakushstanislav/bash-utils) _[C]_ — a set of bash utilities
 
 I also developed and maintain 📅  [WantVisit.com](https://wantvisit.com)
 
