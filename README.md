@@ -12,7 +12,7 @@ I also develop and maintain 📅  [WantVisit.com](https://wantvisit.com)
 
 ### 📈 Statistics
 
-[![Stanislav Yakush GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yakushstanislav&layout=compact&langs_count=8&hide_border=true)](https://github.com/yakushstanislav)
+[![Stanislav Yakush GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yakushstanislav&layout=compact&langs_count=12&hide_border=true&show_icons=true&theme=swift)](https://github.com/yakushstanislav)
 
 ### 🌎 Contact me
 
