@@ -2,6 +2,7 @@
 
 I have written:
 * ⛓️ [ChainDB](https://github.com/yakushstanislav/ChainDB) _[C++]_— a secure and reliable blockchain database
+* 🛜 [slability](https://github.com/yakushstanislav/slability) _[Rust]_— an address availability monitoring tool
 * 💾 [EagleMQ](https://github.com/yakushstanislav/EagleMQ) _[C]_ _[DEPRECATED]_ — an open source, high-performance and lightweight queue manager
 * 🗺️ [libcva](https://github.com/yakushstanislav/libcva) _[C++]_ — a computer vision algorithms library
 * 🪄 [libmla](https://github.com/yakushstanislav/libmla) _[C++]_ — a machine learning algorithms library
